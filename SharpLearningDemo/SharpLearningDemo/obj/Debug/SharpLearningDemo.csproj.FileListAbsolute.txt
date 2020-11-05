@@ -1,0 +1,95 @@
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.exe.config
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.exe
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.pdb
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.exe
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.pdb
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Common.Interfaces.dll
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Containers.dll
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.DecisionTrees.dll
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.InputOutput.dll
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.RandomForest.dll
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Common.Interfaces.xml
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Containers.xml
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.DecisionTrees.xml
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.InputOutput.xml
+C:\Users\user\source\repos\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.RandomForest.xml
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.exe.config
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.exe
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.pdb
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Common.Interfaces.dll
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Containers.dll
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.DecisionTrees.dll
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.InputOutput.dll
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.RandomForest.dll
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Common.Interfaces.xml
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Containers.xml
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.DecisionTrees.xml
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.InputOutput.xml
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.RandomForest.xml
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.csprojAssemblyReference.cache
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.csproj.CoreCompileInputs.cache
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.csproj.CopyComplete
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.exe
+C:\Users\AlbertHsu\Desktop\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.pdb
+C:\My application\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.csprojAssemblyReference.cache
+C:\My application\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.csproj.CoreCompileInputs.cache
+C:\My application\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.exe
+C:\My application\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.pdb
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.dll.config
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.exe.config
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.exe
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.pdb
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.dll
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Math.Core.dll
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Math.dll
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Statistics.dll
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Common.Interfaces.dll
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Containers.dll
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.DecisionTrees.dll
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.InputOutput.dll
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.RandomForest.dll
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.xml
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Math.xml
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Math.Core.xml
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Statistics.xml
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Common.Interfaces.xml
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Containers.xml
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.DecisionTrees.xml
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.InputOutput.xml
+C:\My application\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.RandomForest.xml
+C:\My application\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.csproj.CopyComplete
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.dll.config
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.exe.config
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.exe
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearningDemo.pdb
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Math.Core.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Math.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Statistics.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Common.Interfaces.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Containers.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.DecisionTrees.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.InputOutput.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.RandomForest.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.xml
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Math.xml
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Math.Core.xml
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\Accord.Statistics.xml
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Common.Interfaces.xml
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.Containers.xml
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.DecisionTrees.xml
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.InputOutput.xml
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\SharpLearning.RandomForest.xml
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.csprojAssemblyReference.cache
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.csproj.CoreCompileInputs.cache
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.csproj.CopyComplete
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.exe
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\obj\Debug\SharpLearningDemo.pdb
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\MathNet.Filtering.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\MathNet.Numerics.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\System.ValueTuple.dll
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\MathNet.Filtering.xml
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\MathNet.Numerics.xml
+D:\MCM-204\SharpLearningDemo\SharpLearningDemo\bin\Debug\System.ValueTuple.xml
